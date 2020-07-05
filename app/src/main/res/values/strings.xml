@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomJava_18_6_20</string>
+    <string name="completed">Completed</string>
+    <string name="go_bring_eggs">Go Bring Eggs</string>
+    <string name="bring_eggs">Bring 6 eggs from super market</string>
+    <string name="_5pm_today">5pm today</string>
+</resources>
